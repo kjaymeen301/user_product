@@ -1,0 +1,29 @@
+{
+    "name": "user_product",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bcrypt": "^5.0.1",
+        "body-parser": "^1.20.0",
+        "dotenv": "^16.0.0",
+        "express": "^4.17.3",
+        "express-flash": "^0.0.2",
+        "express-session": "^1.17.2",
+        "joi": "^17.6.0",
+        "jsonwebtoken": "^8.5.1",
+        "md5": "^2.3.0",
+        "multer": "^1.4.4",
+        "mysql2": "^2.3.3",
+        "nodemon": "^2.0.15",
+        "path": "^0.12.7",
+        "sequelize": "^6.19.0",
+        "validatorjs": "^3.22.1"
+    }
+}

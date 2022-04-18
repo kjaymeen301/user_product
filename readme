@@ -1,0 +1,13 @@
+step 1 : changes file name env to .env
+step 2 : changes db authentication in .env and config/config.json
+step 3 : open cmd or terminal run command
+step 4 : npm install 
+step 5 : npx sequelize-cli db:migrate
+step 6 : npx sequelize-cli db:seed:all
+step 7 : npm start
+
+
+postman link  : https://www.getpostman.com/collections/cf942ba1d42b51c2e867
+
+
+
